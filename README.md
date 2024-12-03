@@ -1,3 +1,6 @@
+## Descrição
+Uma aplicação front e back para o gerenciamento de tarefas
+
 ## Instalação
 
 ```bash
